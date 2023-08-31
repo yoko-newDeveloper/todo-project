@@ -1,5 +1,7 @@
 # todo-project
 
+## 実行コマンド：`npm run serve`
+
 ## Project setup
 ```
 yarn install
@@ -22,3 +24,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# todo-project
